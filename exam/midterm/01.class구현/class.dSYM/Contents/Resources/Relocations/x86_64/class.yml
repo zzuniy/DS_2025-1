@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/zzuniy/Documents/한동대학교/2025/데이타구조/exam/midterm/01.class구현/class"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __ZN6weight10set_weightEii, symObjAddr: 0x0, symBinAddr: 0x100000DB0, symSize: 0x20 }
+  - { offsetInCU: 0x2EA6, offset: 0x2EA6, size: 0x8, addend: 0x0, symName: __ZN6weight10set_weightEii, symObjAddr: 0x0, symBinAddr: 0x100000DB0, symSize: 0x20 }
+  - { offsetInCU: 0x2EE7, offset: 0x2EE7, size: 0x8, addend: 0x0, symName: __Z10add_weight6weightS_, symObjAddr: 0x20, symBinAddr: 0x100000DD0, symSize: 0x80 }
+  - { offsetInCU: 0x2F59, offset: 0x2F59, size: 0x8, addend: 0x0, symName: __ZN6weightC1Ev, symObjAddr: 0xA0, symBinAddr: 0x100000E50, symSize: 0x20 }
+  - { offsetInCU: 0x2F83, offset: 0x2F83, size: 0x8, addend: 0x0, symName: __ZN6weight10get_weightEv, symObjAddr: 0xC0, symBinAddr: 0x100000E70, symSize: 0x30 }
+  - { offsetInCU: 0x2FC4, offset: 0x2FC4, size: 0x8, addend: 0x0, symName: __ZN6weight9less_thanES_S_, symObjAddr: 0xF0, symBinAddr: 0x100000EA0, symSize: 0x60 }
+  - { offsetInCU: 0x3005, offset: 0x3005, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x150, symBinAddr: 0x100000F00, symSize: 0x80 }
+  - { offsetInCU: 0x3049, offset: 0x3049, size: 0x8, addend: 0x0, symName: __ZN6weightC2Ev, symObjAddr: 0x1D0, symBinAddr: 0x100000F80, symSize: 0x1B }
+...
